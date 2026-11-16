@@ -1,0 +1,8 @@
+employee-frontend/node_modules/
+employee-frontend/dist/
+employee-management-backend/target/
+.DS_Store
+.vscode/
+.idea/
+*.class
+.env
